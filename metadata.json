@@ -1,0 +1,7 @@
+{
+  "name": "HabitForge - Advanced Habit & Program Tracker",
+  "description": "A premium habit tracker, program manager, and productivity analytics platform with interactive charts, streak tracking, milestone goals, and light/dark theme support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
